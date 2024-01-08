@@ -79,6 +79,10 @@
       
       </nav>
 
+      <!--<div class="container col-md-8 offset-md-2 ">
+        inc messages
+      </div>
+    -->
       @yield('content')
 
       <footer class="footer text bg-dark">
